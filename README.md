@@ -6,5 +6,5 @@ Step 3 -  Start project by starting server by "npm run dev"
 Step 4 -  Start project by starting client by "npm run start"
 
 
-![Screenshot from 2022-10-10 09-06-38](https://user-images.githubusercontent.com/54241771/194796017-94a82d6d-2598-4198-a99e-f95bc19092c1.png)
-"
+![Screenshot from 2022-10-10 09-07-28](https://user-images.githubusercontent.com/54241771/194796082-7ee0f5f0-2bb2-4ee3-a942-af9efc22d60b.png)
+
